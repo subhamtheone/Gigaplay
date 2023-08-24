@@ -10,11 +10,6 @@
 
 ## View the Live-Site 👉 [Gigaplay](https://subhamtheone.editorx.io/game-on)
 
-![Front](https://github.com/subhamtheone/Gigaplay/assets/53272873/d5108b6d-e482-42eb-b6cc-2f11819a037f)
-
-
-
-
 ### Git Integration & Wix CLI <img align="left" src="https://user-images.githubusercontent.com/89579857/185785022-cab37bf5-26be-4f11-85f0-1fac63c07d3b.png">
 
 This repo is part of Git Integration & Wix CLI, a set of tools that allows you to write, test, and publish code for your Wix site locally on your computer. 
