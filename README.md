@@ -8,6 +8,8 @@
 * Many more functionalities and features are added.
 * Feel free to explore.
 
+## View the Live-Site 👉 [Gigaplay](https://subhamtheone.editorx.io/game-on)
+
 ![Front](https://github.com/subhamtheone/Gigaplay/assets/53272873/d5108b6d-e482-42eb-b6cc-2f11819a037f)
 
 
